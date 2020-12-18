@@ -23,6 +23,7 @@ This is a repository for `tti-explorer` simulation analysis. This repository is 
 - *data*: contains datasets used for the simulation.
 - *tti_explorer*: contains related simulations codes.
 - *notebooks*: contains analysis codes.
+- *results*: contains experiments results.
 
 ## Setup:
 ```bash

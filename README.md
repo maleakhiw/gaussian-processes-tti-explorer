@@ -33,7 +33,7 @@ pip install -r requirements.txt
 pip install .
 ```
 
-## Author:
+## Authors:
 - Maleakhi Wijaya: maw219@cam.ac.uk
 - Chuan Tan: ct538@cam.ac.uk
 - Jakub Mach: jakub.t.mach@gmail.com

@@ -1,4 +1,4 @@
-# TTI Explorer - Sensitivity Analysis and Optimisation
+# TTI Explorer - Sensitivity Analysis and Optimisation (COVID-19)
 
 This is a repository for `tti-explorer` simulation analysis. This repository is built to analyse and explore the impact of various test-trace-isolate strategies and social distancing measures on the spread of COVID-19 in the UK. It also aims to employ unconstrained and constrained optimisation techniques to discover optimal strategy for reducting the disease' reproduction rate.
 
@@ -24,6 +24,7 @@ This is a repository for `tti-explorer` simulation analysis. This repository is 
 - *tti_explorer*: contains related simulations codes.
 - *notebooks*: contains analysis codes.
 - *results*: contains experiments results.
+- *paper.pdf*: our paper documenting methods and results.
 
 ## Setup:
 ```bash
